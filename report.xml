@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="0.005" tests="1" failures="0">
-  <testsuite name="Root Suite" timestamp="2025-12-04T17:52:33" tests="0" time="0.000" failures="0">
-  </testsuite>
-  <testsuite name="sum" timestamp="2025-12-04T17:52:33" tests="1" file="C:\Users\admin\my-ci-demo\test\test.spec.js" time="0.003" failures="0">
-    <testcase name="sum adds numbers" time="0.000" classname="adds numbers">
-    </testcase>
-  </testsuite>
-</testsuites>
