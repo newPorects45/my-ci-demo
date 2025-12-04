@@ -1,0 +1,17 @@
+{
+  "name": "my-ci-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter mocha-junit-reporter",
+    "build": "mkdir -p dist && echo 'build' > dist/index.txt"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^11.7.5",
+    "mocha-junit-reporter": "^2.2.1"
+  }
+}
